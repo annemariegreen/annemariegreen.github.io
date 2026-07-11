@@ -1,0 +1,8 @@
+# Quarto
+/.quarto/
+/_freeze/
+*_files/
+# macOS
+.DS_Store
+# Editor
+.Rproj.user

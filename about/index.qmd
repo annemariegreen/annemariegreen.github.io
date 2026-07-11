@@ -1,0 +1,30 @@
+---
+title: "Anne Marie Green"
+subtitle: "Ph.D. Student, UC Berkeley"
+image: ../media/headshot.jpg
+toc: false
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 18em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:annemarie_green@berkeley.edu
+    - text: Twitter
+      icon: twitter
+      href: https://x.com/amgreentweets
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/anne-marie-green-8883b9157/
+---
+
+# Hello!
+
+I'm Anne Marie Green, and I'm a third-year Ph.D. student studying American Politics at the University of California, Berkeley. My research interests are in **political behavior, identity, policy and symbolic representation, and symbolic politics.** Currently, I'm most excited about my work focuses on symbolic policies, or policies that are primarily about meaning-making or recognition than the provision of material resources. I use a variety of methods, including original surveys, LLM qualitative coding, text analysis, and ethnography.
+
+Before coming to Berkeley, I graduated *summa cum laude* from Boston College with a degree in Political Science, and spent two years as a Pre-Doctoral Fellow in behavioral science at Harvard Business School.
+
+Outside of my research, I enjoy writing about politics and other topics on my [substack](https://annemariegreen.substack.com/?utm_campaign=profile_chips/) and taking [photos](../photos/) of American political life.
+
+You can read more about my current research [here](../research/), or find my CV [here](../cv/).

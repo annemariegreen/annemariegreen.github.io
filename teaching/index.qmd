@@ -1,0 +1,41 @@
+---
+title: "Teaching"
+description: "" 
+listing:
+  - id: harvard-business-school
+    include:
+      type: "Harvard"
+    contents: teaching.yaml
+    template: teaching.ejs
+    # filter-ui: false
+    sort: "year desc"
+    sort-ui: false
+    categories: true
+  - id: uc-berkeley
+    include: 
+      type: "Berkeley"
+    contents: teaching.yaml
+    template: teaching.ejs
+    # filter-ui: true
+    sort: "year desc" 
+    sort-ui: false
+    categories: true
+language:
+  listing-page-field-categories: "Course Topics"
+toc: false    
+page-layout: full
+footnotes-hover: false
+format:
+  html:
+    anchor-sections: false
+---
+
+## University of California, Berkeley
+
+::: {#uc-berkeley}
+:::
+
+## Harvard Business School
+
+::: {#harvard-business-school}
+:::

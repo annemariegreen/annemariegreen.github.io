@@ -1,0 +1,39 @@
+
+- title: "Legislating Symbols: Does Status Threat Cause Voters to Demand Symbolic Representation?"
+  type: "Working"
+  author:
+    - Anne Marie Green
+  date: 2026-01-01
+  status: "Working paper"
+  abstract: "I use machine learning to quantify and describe the scope of symbolic legislation in the U.S., and experimental survey research to understand what symbolic legislation means to voters, and how this meaning differs from material economic policies."
+  categories:
+    - Symbolic politics
+    - Status threat
+    - Representation
+    - Political behavior
+
+- title: "Political Ideology in Campaign Mail"
+  type: "Working"
+  author:
+    - Josh Kalla
+    - David Broockman
+    - Anne Marie Green
+  date: 2025-06-01
+  status: "Working paper"
+  categories:
+    - Campaigns
+    - Political communication
+    - Ideology
+
+- title: "Can a National Domestic Exchange Program &ldquo;Bridge Divides&rdquo;?"
+  type: "Working"
+  author:
+    - Anne Marie Green
+    - Juliana Schroeder
+  date: 2025-06-01
+  status: "Working paper"
+  abstract: "Schroeder and I work with a domestic exchange program for high-school students that aims to connect divided Americans by facilitating free, one-week exchanges for teenagers to build shared experiences with other teenagers from different regions and backgrounds. We study the impact of this cross-country travel and connection using longitudinal survey methodology, a between-subjects experiment, and ethnographic methods collected over one week of a summer exchange in Jackson, Georgia."
+  categories:
+    - Depolarization
+    - Field experiment
+    - Intergroup contact

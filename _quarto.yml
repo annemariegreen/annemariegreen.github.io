@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - "files/*"
+
+website:
+  title: "Anne Marie Green"
+  site-url: "https://annemariegreen.github.io"
+  favicon: assets/favicon.png
+  search: false
+  navbar:
+    right:
+      - href: about/
+        text: About
+      - href: research/
+        text: Research
+      - href: teaching/
+        text: Teaching
+      - href: photos/
+        text: Photos
+      - href: cv/
+        text: C.V.
+
+  page-footer:
+    background: light
+    left: Copyright 2026, Anne Marie Green. <br> Built adopting code in part from [Zachary Lorico Hertz](https://zacharylhertz.github.io/).
+
+format:
+  html:
+    theme:
+      - cosmo
+      - assets/global_styles.scss
+      - assets/home_styles.scss
+    css: assets/global_styles.css
+    toc: true
+    page-layout: full
+
+editor: visual
+

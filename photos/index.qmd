@@ -1,0 +1,47 @@
+---
+title: "Photos"
+toc: false
+page-layout: full
+lightbox: true
+---
+
+```{=html}
+<style>
+/* Stretch the photo grids to (nearly) full viewport width */
+#quarto-document-content .quarto-layout-panel {
+  width: 96vw;
+  max-width: none;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+</style>
+```
+
+A few photos I've taken of American life in the U.S. 
+
+## 2026
+
+::: {layout-ncol=3}
+![On a "Stranger Things" tour in Jackson, Georgia.](../media/photos/aep-dsc04428.jpg){group="2026"}
+
+![A bar advertising "Husband Day Care" in Jackson, GA.](../media/photos/aep-dsc04481.jpg){group="2026"}
+
+![Packing summertime lunches at a Methodist Church in Jackson, GA.](../media/photos/aep-dsc04523.jpg){group="2026"}
+
+![Writing cards for the elderly at the same church.](../media/photos/aep-dsc04536.jpg){group="2026"}
+
+![Free Prayer in the square of Covington, GA. Also where "The Vampire Diaries" and several clips from movies were filmed.](../media/photos/aep-dsc04556.jpg){group="2026"}
+
+![Learning how to shoot a gun with local high-school grads in Jackson, GA](../media/photos/aep-jackson-shooting.jpg){group="2026"}
+:::
+
+## 2025
+
+::: {layout-ncol=3}
+![A truck photographed in Rehobeth Beach, Delaware in 2025.](../media/photos/political-car.jpg){group="2025"}
+
+![Photographed in Lee's Legendary Marbles and Collectables in York, Nebraska on my drive out to Berkeley.](../media/photos/dsc03544-2.jpg){group="2025"}
+
+![Photographed in Rehobeth Beach, DE in 2025, a few "Gulf of America" t-shirts for sale on the boardwalk.](../media/photos/img_5316.jpg){group="2025"}
+:::

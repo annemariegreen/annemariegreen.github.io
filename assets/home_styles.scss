@@ -1,0 +1,27 @@
+/*-- scss:rules --*/
+
+/* Trestles: image left, content right, left-aligned */
+.quarto-about-trestles .about-entity {
+    text-align: left;
+}
+
+.quarto-about-trestles .about-entity .description {
+    text-align: left;
+}
+
+/* Center the name + subtitle under the photo (left column) */
+.quarto-about-trestles .quarto-title-block .title,
+.quarto-about-trestles .quarto-title-block .subtitle {
+    text-align: center;
+}
+
+/* Top-align the two columns so the bio starts level with the photo */
+.quarto-about-trestles {
+    align-items: flex-start;
+}
+
+/* Remove extra top offset on the right-hand content column */
+.quarto-about-trestles .about-entity {
+    padding-top: 0;
+    margin-top: 0;
+}

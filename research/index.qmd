@@ -1,0 +1,45 @@
+---
+title: "Research"
+description: "" 
+listing:
+  - id: unpublished-papers
+    include: 
+      type: "Working"
+    contents: papers.yaml
+    template: papers.ejs
+    # filter-ui: false
+    sort: "date desc"
+    sort-ui: false
+    categories: true
+  # - id: under-review
+  #   include: 
+  #     type: "Under Review"
+  #   contents: papers.yaml
+  #   template: papers.ejs
+  #   # filter-ui: false
+  #   sort: "date desc"
+  #   sort-ui: false
+  #   categories: true  
+  - id: published-papers
+    include: 
+      type: "Published"
+    contents: papers.yaml
+    template: papers.ejs
+    # filter-ui: true
+    sort: "date desc" 
+    sort-ui: false
+    categories: true
+language:
+  listing-page-field-categories: "Filter by topic keywords"
+toc: false    
+page-layout: full
+footnotes-hover: false
+format:
+  html:
+    anchor-sections: false
+---
+
+## Working Papers
+
+::: {#unpublished-papers}
+:::
