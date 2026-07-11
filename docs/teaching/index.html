@@ -108,6 +108,34 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-community-teaching .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-type','listing-year','listing-semester','listing-status','listing-categories',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-title","listing-type","listing-year","listing-semester","listing-status","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-community-teaching'] = new List('listing-community-teaching', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -350,7 +378,30 @@ No matching items
       <hr>
     </li>
   
-    <li data-index="1" data-categories="Q29tbXVuaXR5JTIwdGVhY2hpbmc=">
+</ul>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="community-teaching" class="level2">
+<h2 data-anchor-id="community-teaching">Community Teaching</h2>
+<div id="listing-community-teaching" class="quarto-listing quarto-listing-container-custom">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css">
+<style>
+  .btn-xs {
+    padding: 1px 5px;
+    font-size: 15px;
+  }
+  .ai-lg {
+    font-size: 1.2em;
+  /* Adjust as needed */
+  }
+</style>
+
+<ul class="list">
+  
+    <li data-index="0" data-categories="Q29tbXVuaXR5JTIwdGVhY2hpbmc=">
       Volunteer Tutor, Cambridge Rindge and Latin High School 
       <br>
       <p>

@@ -12,12 +12,20 @@ listing:
     sort-ui: false
     categories: true
   - id: uc-berkeley
-    include: 
+    include:
       type: "Berkeley"
     contents: teaching.yaml
     template: teaching.ejs
     # filter-ui: true
-    sort: "year desc" 
+    sort: "year desc"
+    sort-ui: false
+    categories: true
+  - id: community-teaching
+    include:
+      type: "Community"
+    contents: teaching.yaml
+    template: teaching.ejs
+    sort: "year desc"
     sort-ui: false
     categories: true
 language:
@@ -38,4 +46,9 @@ format:
 ## Harvard Business School
 
 ::: {#harvard-business-school}
+:::
+
+## Community Teaching
+
+::: {#community-teaching}
 :::

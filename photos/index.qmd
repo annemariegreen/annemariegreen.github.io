@@ -18,7 +18,7 @@ lightbox: true
 </style>
 ```
 
-A few photos I've taken of American life in the U.S. 
+A few photos I've taken of American life.
 
 ## 2026
 
@@ -33,7 +33,7 @@ A few photos I've taken of American life in the U.S.
 
 ![Free Prayer in the square of Covington, GA. Also where "The Vampire Diaries" and several clips from movies were filmed.](../media/photos/aep-dsc04556.jpg){group="2026"}
 
-![Learning how to shoot a gun with local high-school grads in Jackson, GA](../media/photos/aep-jackson-shooting.jpg){group="2026"}
+![Learning how to shoot a gun with local high-school grads in Jackson, GA (with the help of experience instructors!).](../media/photos/aep-jackson-shooting.jpg){group="2026"}
 :::
 
 ## 2025
