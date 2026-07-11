@@ -48,7 +48,5 @@ format:
 ::: {#harvard-business-school}
 :::
 
-## Community Teaching
-
 ::: {#community-teaching}
 :::
