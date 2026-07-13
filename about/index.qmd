@@ -21,7 +21,7 @@ about:
 
 # Hello!
 
-I'm Anne Marie Green, and I'm a third-year Ph.D. student studying American Politics at the University of California, Berkeley. My research interests are in **political behavior, identity, policy and symbolic representation, and symbolic politics.** Currently, I'm most excited about my work focuses on symbolic policies, or policies that are primarily about meaning-making or recognition than the provision of material resources. I use a variety of methods, including original surveys, machine learning, LLM qualitative coding, text analysis, and ethnography.
+I'm Anne Marie Green, and I'm a third-year Ph.D. student studying American Politics at the University of California, Berkeley. My research interests are in **political behavior, identity, representation, and symbolic politics.** Currently, I'm most excited about my work focusing on symbolic policies, or policies that are primarily about meaning-making or recognition than the provision of material resources. I use a variety of methods, including original surveys, machine learning, LLM qualitative coding, text analysis, and ethnography.
 
 Before coming to Berkeley, I graduated *summa cum laude* from Boston College with a degree in Political Science, and spent two years as a Pre-Doctoral Fellow in behavioral science at Harvard Business School.
 
