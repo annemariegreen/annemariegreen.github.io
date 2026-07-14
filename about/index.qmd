@@ -20,4 +20,5 @@ about:
 ---
 
 <!-- Bio text is shared with the home page. Edit _bio.qmd to change both at once. -->
+
 {{< include ../_bio.qmd >}}
